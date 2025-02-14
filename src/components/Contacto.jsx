@@ -7,7 +7,7 @@ const Contacto = () => {
         Contacto
       </h2>
       <div className="flex  justify-center">
-        <a href="https://www.instagram.com/thomasguerrero68/" target="_blank">
+        <a href="https://www.instagram.com/yuranytorress_/" target="_blank">
           <FaInstagram fill="#fff" size={44} />
         </a>
       </div>
