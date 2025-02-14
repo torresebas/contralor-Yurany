@@ -1,60 +1,88 @@
 export const propuestas = [
   {
-    nombre: "Implementar puntos de reciclaje",
+    nombre:
+      "Supervisión del proceso de entrega de la nueva planta física del colegio",
     objetivo:
-      "Fomentar actividades sobre la importancia del reciclaje para el cuidado del medio ambiente y la lucha contra el cambio climático.",
+      "Supervisar el proceso de entrega de la infraestructura del colegio para garantizar que se reciba en óptimas condiciones en beneficio de la comunidad educativa.",
     estrategia: [
-      "Realizar campañas de recolección de materiales reciclables",
-      "Organizar charlas educativas con expertos en sostenibilidad",
-      "Divulgar información científica a través de carteles, redes sociales y boletines estudiantiles",
+      "Realizar inspecciones periódicas",
+      "Coordinar reuniones con los responsables del proyecto",
+      "Recoger y reportar observaciones sobre posibles mejoras",
+    ],
+    lugar: "Instalaciones del colegio",
+    colaboradores: ["Directivos", "Docentes", "Estudiantes"],
+  },
+  {
+    nombre: "Estaciones de distribución ecológica",
+    objetivo:
+      "Implementar puntos estratégicos para la recolección y distribución de residuos reciclables y fomentar prácticas sostenibles.",
+    estrategia: [
+      "Instalar estaciones de reciclaje en puntos clave",
+      "Promover el uso adecuado de los contenedores mediante campañas informativas",
+      "Organizar brigadas ecológicas estudiantiles",
     ],
     lugar: "Planta educativa",
     colaboradores: ["Estudiantes", "Docentes"],
   },
   {
-    nombre: "Fomentar la ayuda a comunidades vulnerables",
+    nombre: "Campañas de sensibilización sobre el uso de lo público",
     objetivo:
-      "Desarrollar valores de solidaridad y empatía en la comunidad estudiantil mediante acciones de apoyo a personas en situación de vulnerabilidad.",
+      "Fomentar el respeto y la adecuada utilización de los espacios y recursos públicos dentro y fuera del colegio.",
     estrategia: [
-      "Organizar proyectos de voluntariado",
-      "Realizar jornadas de donaciones (ropa, alimentos, útiles escolares)",
-      "Llevar a cabo actividades de sensibilización para fomentar la participación activa de los estudiantes",
+      "Diseñar carteles informativos",
+      "Organizar charlas y talleres educativos",
+      "Realizar actividades participativas que refuercen el mensaje",
     ],
-    lugar: ["Planta educativa", "Comunidades beneficiadas"],
-    colaboradores: ["Estudiantes", "Docentes"],
-  },
-  {
-    nombre: "Apoyo a deportistas destacados",
-    objetivo:
-      "Recaudar fondos para brindar apoyo a los estudiantes que representan al colegio en diferentes disciplinas deportivas.",
-    estrategia: [
-      "Realizar eventos como mini bazares y jornadas Jean Day para obtener recursos",
-      "Gestionar apoyo por parte de directivos, docentes y padres de familia",
-    ],
-    lugar: "Planta física del colegio",
-    colaboradores: ["Docentes", "Estudiantes", "Padres de familia"],
-  },
-  {
-    nombre: "Fomentar actividades culturales y deportivas",
-    objetivo:
-      "Integrar actividades artísticas y culturales con el ámbito deportivo para fortalecer el sentido de identidad y pertenencia en la comunidad estudiantil.",
-    estrategia: [
-      "Organizar eventos como ferias culturales, torneos deportivos intercolegiales, presentaciones artísticas y concursos que incentiven la creatividad y el talento de los estudiantes",
-    ],
-    lugar: ["Auditorio", "Canchas", "Espacios recreativos del colegio"],
+    lugar: "Instalaciones del colegio y comunidad en general",
     colaboradores: ["Estudiantes", "Docentes", "Directivos"],
   },
   {
-    nombre: "Programas de apoyo emocional",
+    nombre: "Higiene femenina en los salones",
     objetivo:
-      "Brindar orientación y acompañamiento emocional a los estudiantes para mejorar su bienestar y desempeño académico.",
+      "Garantizar comodidad y seguridad a las niñas del colegio mediante el acceso a productos de higiene femenina.",
     estrategia: [
-      "Implementar sesiones de apoyo con la psicóloga del colegio",
-      "Crear espacios seguros para hablar sobre emociones",
-      "Realizar talleres sobre manejo del estrés, ansiedad y resolución de conflictos",
+      "Ubicar una caja con productos de higiene femenina en cada salón",
+      "Garantizar reposición constante de los insumos",
+      "Fomentar la conciencia y el respeto sobre la importancia de la higiene femenina",
     ],
-    lugar: ["Aulas de clase", "Espacios de orientación"],
-    colaboradores: ["Psicóloga", "Docentes", "Orientadores"],
+    lugar: "Salones de clase",
+    colaboradores: ["Docentes", "Estudiantes", "Personal administrativo"],
+  },
+  {
+    nombre: "Fomento de actividades de uso libre",
+    objetivo:
+      "Promover el acceso equitativo a implementos deportivos y recreativos dentro de la institución.",
+    estrategia: [
+      "Organizar una donatón de implementos deportivos",
+      "Crear un sistema de préstamo de material deportivo",
+      "Fomentar actividades recreativas inclusivas",
+    ],
+    lugar: "Áreas deportivas y recreativas del colegio",
+    colaboradores: ["Estudiantes", "Docentes", "Directivos"],
+  },
+  {
+    nombre: "Embellecimiento de la institución",
+    objetivo:
+      "Fomentar el sentido de pertenencia y responsabilidad ambiental mediante el mantenimiento de las zonas verdes.",
+    estrategia: [
+      "Asignar a cada salón una matera o zona verde cercana para su cuidado",
+      "Implementar jornadas de reforestación y ornato",
+      "Realizar concursos de embellecimiento institucional",
+    ],
+    lugar: "Zonas verdes y espacios comunes del colegio",
+    colaboradores: ["Estudiantes", "Docentes", "Personal de mantenimiento"],
+  },
+  {
+    nombre: "Supervisión y optimización del servicio de alimentación escolar",
+    objetivo:
+      "Mejorar la calidad de los alimentos y reducir el desperdicio en el restaurante escolar.",
+    estrategia: [
+      "Realizar supervisiones periódicas de la calidad de la comida",
+      "Implementar estrategias para la reducción del desperdicio",
+      "Fomentar la educación alimentaria y el consumo responsable",
+    ],
+    lugar: "Restaurante escolar",
+    colaboradores: ["Estudiantes", "Docentes", "Personal de cocina"],
   },
 ];
 
