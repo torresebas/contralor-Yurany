@@ -95,7 +95,7 @@ export const perfilThomas = {
 export const perfilYurany = {
   nombre: "Yurany",
   apellido: "Torres",
-  cargo: "Contralor",
+  cargo: "Contralora",
   numero: "02",
   lema: "Con honestidad y control yura es la solución",
 };
