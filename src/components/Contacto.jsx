@@ -6,7 +6,7 @@ const Contacto = () => {
       <h2 className="text-center text-[clamp(2.625rem,4vw,6.875rem)] font-bold mb-11">
         Contacto
       </h2>
-      <div className="flex justify-center">
+      <div className="flex  justify-center">
         <a href="https://www.instagram.com/thomasguerrero68/" target="_blank">
           <FaInstagram fill="#fff" size={44} />
         </a>
