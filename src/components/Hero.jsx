@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <section className="bg-white h-full">
       <Header />
-      <div className=" pt-24  md:grid md:grid-cols-2 md:px-[20%]">
+      <div className=" pt-24 flex flex-col justify-center  md:grid md:grid-cols-2 md:px-[20%]">
         <div className="w-[80%]  self-center justify-self-center ">
           <Image
             className="h-full w-full object-cover"
