@@ -24,6 +24,7 @@ const Hero = () => {
             <h2 className="text-[clamp(3rem,2vw,2.625rem)] leading-none font-boldX tracking-tight">
               {perfilYurany.apellido}
             </h2>
+            <h3>"{perfilYurany.lema}"</h3>
             <h2 className="text-[clamp(2rem,2vw,2.625rem)] leading-none my-5 ">
               {perfilYurany.cargo} 2025
             </h2>
